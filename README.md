@@ -6,10 +6,10 @@ I believe in changing the world for the better of humankind's sustainability, th
 forward, which will open new doors to science and technology, while used in the right way. (Which is already happening, and it's just mind-blowing)
 
 ⚜️Technologies that I daily work on:
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javascript, React, Angular, jQuery, SEO
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javascript, React, Angular, jQuery, SEO, PWA.
 
 ⚜️Technologies I am learning out of curiosity:
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next.js, React Native, Express.js, MongoDB, PWA. 
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next.js, React Native, Express.js, MongoDB. 
 
 ⚜️Technologies I am keen to learn:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Networking, Cybersecurity
