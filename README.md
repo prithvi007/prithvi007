@@ -16,4 +16,5 @@ I believe that, building any software application with any technical knowledge, 
 
 📍 You get in touch with me at:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: prithvirajbaliga007@gmail.com
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: 'https://www.linkedin.com/in/prithviraj-baliga-b-2610771ba'
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/prithviraj-baliga-b-2610771ba
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitLab repo: https://gitlab.com/prithvirajbaliga007
